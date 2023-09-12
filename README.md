@@ -4,7 +4,7 @@ This repo contains a collection of markdown notes on my AI research.
 
 ## Goal
 
-Researching different AI models, products, use cases, etc has ended up being a bit of a convoluted series of rabbit holes for me. This repo will contain directories for each topic I am currently researching. The plan is to be taking notes as I am researching. This will lead to further questions about other topics that will then get their own directory. These notes should be highly interconnected with internal links to related topics/products/whatever. 
+Researching different AI models, products, use cases, etc has ended up being a bit of a convoluted series of rabbit holes for me. This repo will contain directories for each topic I am currently researching. The plan is to be taking notes as I am researching. This will lead to further questions about other topics that will then get their own directory. These notes should be highly interconnected with internal links to related topics/products/whatever.
 
 ## Structure
 
